@@ -1,0 +1,6 @@
+framework module Pods_SerialQueue_SerialQueueUITests {
+  umbrella header "Pods-SerialQueue-SerialQueueUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
